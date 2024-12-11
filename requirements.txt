@@ -1,0 +1,9 @@
+numpy<2
+pandas>=1.17.3
+matplotlib
+scikit-learn
+keras
+tensorflow>=2.6
+tabulate
+random
+seaborn
